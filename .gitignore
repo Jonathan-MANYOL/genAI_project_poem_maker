@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+venv/
+genAI_project/
+final_project/Sujet projet - IA GEN.pdf
